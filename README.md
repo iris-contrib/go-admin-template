@@ -2,9 +2,11 @@
 
 A fork of [GoAdminGroup/example](https://github.com/GoAdminGroup/example) show how to run go-admin with [Iris](https://github.com/kataras/iris). Click [here](http://www.go-admin.cn/en) to learn more.
 
-If you are Windows user, [go-sqlite-dirver](https://github.com/mattn/go-sqlite3) require to download the gcc to make it work.
+![Go-Admin UI](https://iris-go.com/images/about/go-admin.png)
 
 ## Get started
+
+If you are Windows user, [go-sqlite-dirver](https://github.com/mattn/go-sqlite3) require to download the gcc to make it work.
 
 Install & run the template with [Iris CLI](https://github.com/kataras/iris-cli):
 
