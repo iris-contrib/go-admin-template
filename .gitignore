@@ -1,0 +1,8 @@
+.idea
+.vscode
+.DS_Store
+go.sum
+# ignore iris project file
+.iris.yml
+# ignore logs folder
+logs/**
