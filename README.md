@@ -19,7 +19,7 @@ $ iris-cli run go-admin
 Install & run manually:
 
 ```sh
-$ git clone https://iris-contrib/go-admin-template.git
+$ git clone https://github.com/iris-contrib/go-admin-template.git
 $ go run .
 ```
 
