@@ -1,6 +1,6 @@
 # GoAdmin Template
 
-A fork of [GoAdminGroup/example](https://github.com/GoAdminGroup/example) show how to run go-admin with [Iris](https://github.com/kataras/iris). Click [here](http://www.go-admin.cn/en) to learn more.
+A fork of [GoAdminGroup/example](https://github.com/GoAdminGroup/example) show how to run go-admin with [Iris](https://github.com/kataras/iris). Click [here](https://github.com/responsibility-act/go-admin) to learn more.
 
 ![Go-Admin UI](https://iris-go.com/images/about/go-admin.png)
 
